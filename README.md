@@ -4,15 +4,15 @@
 📍 Based in Denmark  
 
 ## 🔹 About Me  
-I am a **software engineer** with a strong background in **native Android and iOS development**, specializing in **Jetpack Compose (Kotlin)** and **SwiftUI/UIKit (Swift)**, although through my courses I have also learned other languages. I have hands-on experience from an **iOS development internship at Boozt Innovation Lab** and have worked as a **teaching assistant for Android development at DTU**.  
+I am a **software engineer** recently graduated from DTU as a bachelor of engineering with a strong background in **native Android and iOS development**, specializing in **Jetpack Compose (Kotlin)** and **SwiftUI/UIKit (Swift)**, although through my courses I have also learned other languages. I have hands-on experience from an **iOS development internship at Boozt Innovation Lab** and have worked as a **teaching assistant for Android development at DTU**.  
 
 I am passionate about **building intuitive mobile applications**, optimizing performance, and solving complex technical challenges. I thrive in **fast-paced, collaborative environments** where I can continuously learn and improve.  
 
 ## 🔹 Tech Stack  
-💻 **Languages**: Kotlin, Swift, Python, C++, SQL, Java,  
+💻 **Languages**: Kotlin, Swift, Python, C++, SQL, Java, C, JavaScript, R, LC3 assembly
 📱 **Mobile Development**: Jetpack Compose, SwiftUI, UIKit  
 🛠 **Backend & API Integration**: Node.js, Firebase, REST APIs  
-🔧 **Tools & Platforms**: Git, GitHub, Xcode, Android Studio  
+🔧 **Tools & Platforms**: Git, GitHub, Xcode, Android Studio, Figma, RStudio
 ☁️ **CI/CD & Deployment**: GitHub Actions  
 
 ---
@@ -33,7 +33,7 @@ I am passionate about **building intuitive mobile applications**, optimizing per
 
 ### 🎥 **MyAnimeList iOS App** *(Swift, API Integration)*  
 - **Description**: An **iOS app** that integrates with the **MyAnimeList API** to display trending, upcoming, and popular anime. Users can **log in, search, and track** their favorite anime.  
-- **Tech Stack**: SwiftUI, UIKit, REST API  
+- **Tech Stack**: SwiftUI, REST API  
 - **Key Features**:  
   - **Authentication** via MyAnimeList API  
   - **Search functionality** to find anime details  
